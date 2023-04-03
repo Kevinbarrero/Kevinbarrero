@@ -1,4 +1,11 @@
-### Hi there 👋
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning Node.js
+- 👯 I’m looking to collaborate on Algorithmic Trading Projects
+- 🤔 I’m looking for help with frontend Design
+- 💬 Ask me about Algorithmic Trading Bots 
+
+## My Code Stats
 Week Stats
 <!--START_SECTION:waka-->
 
@@ -17,21 +24,5 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=holdandup&layout=compact&theme=react&custom_title=Wakatime%20All%20Time%20Stats&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holdandup)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**Kevinbarrero/Kevinbarrero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
 
 
