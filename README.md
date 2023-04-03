@@ -6,9 +6,9 @@
 - 💬 Ask me about Algorithmic Trading Bots 
 
 ## My Code Stats
-Week Stats
-<!--START_SECTION:waka-->
 
+<!--START_SECTION:waka-->
+Weekly Stats
 ```text
 JavaScript   6 hrs 13 mins   ███████████████████▓░░░░░   78.02 %
 JSON         1 hr 32 mins    █████░░░░░░░░░░░░░░░░░░░░   19.37 %
