@@ -1,4 +1,5 @@
 ### Hi there 👋
+Week Stats
 <!--START_SECTION:waka-->
 
 ```text
