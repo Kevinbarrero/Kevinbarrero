@@ -1,5 +1,4 @@
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on Algorithmic Trading Projects
 - 🤔 I’m looking for help with frontend Design
