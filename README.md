@@ -9,7 +9,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Other            5 hrs 30 mins   ███████████░░░░░░░░░░░░░░   44.02 %
+Jupyter          4 hrs 50 mins   █████████░░░░░░░░░░░░░░░░   36.62 %
+Other            4 hrs 17 mins   ████████░░░░░░░░░░░░░░░░░   32.47 %
 ```
 
 <!--END_SECTION:waka-->
