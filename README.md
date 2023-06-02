@@ -8,7 +8,7 @@
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 JavaScript   1 hr 37 mins    ███████████████▓░░░░░░░░░   62.06 %
 Python       48 mins         ███████▓░░░░░░░░░░░░░░░░░   31.03 %
 JSON         9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
