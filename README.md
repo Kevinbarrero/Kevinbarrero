@@ -1,8 +1,8 @@
 
 - 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on Algorithmic Trading Projects
-- 🤔 I’m looking for help with frontend Design
-- 💬 Ask me about Algorithmic Trading Bots 
+- 🤔 I’m looking for help with backend projects
+- 💬 Ask me about Algorithmic Trading Bots
 
 ## My Code Stats
 
