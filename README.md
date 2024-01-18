@@ -9,8 +9,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-sh           7 mins          ███████████████████████▒░   92.82 %
-PacmanConf   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
+sh           6 mins          ███████████████████████░░   91.81 %
+PacmanConf   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
 ```
 
 <!--END_SECTION:waka-->
