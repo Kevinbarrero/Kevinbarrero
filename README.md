@@ -1,6 +1,6 @@
 
-- 🌱 I’m currently learning Node.js
-- 👯 I’m looking to collaborate on Algorithmic Trading Projects
+- 🌱 I’m currently learning Golang
+- 👯 I’m looking to collaborate on Golang Backend Projects
 - 🤔 I’m looking for help with backend projects
 - 💬 Ask me about Algorithmic Trading Bots
 
