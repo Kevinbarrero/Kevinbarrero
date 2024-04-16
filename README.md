@@ -4,6 +4,8 @@
 - 🤔 I’m looking for help with backend projects
 - 💬 Ask me about Algorithmic Trading Bots
 
+![](https://github-profile-trophy.vercel.app/?username=kevinbarrero)
+
 ## My Code Stats
 
 <!--START_SECTION:waka-->
